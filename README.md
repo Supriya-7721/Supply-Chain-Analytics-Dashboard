@@ -75,11 +75,9 @@ Page 2: Inventory & Quality Analysis
 - Monitor low-stock products to avoid stockouts.
 ## Dashboard Preview
 ### Executive Overview
-![Dashboard Page 1]
-(Dashboard_page1.png)
+![Dashboard Page 1](Dashboard_page1.png)
 ### Inventory & Quality Analysis
-![Dashboard Page 2]
-(Dashboard_page2.png)
+![Dashboard Page 2](Dashboard_page2.png)
 
 
 
