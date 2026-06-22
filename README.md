@@ -73,7 +73,13 @@ Page 2: Inventory & Quality Analysis
 - Strengthen relationships with top-performing suppliers.
 - Use Carrier B for cost-efficient logistics.
 - Monitor low-stock products to avoid stockouts.
-
+## Dashboard Preview
+### Executive Overview
+![Dashboard Page 1]
+(Dashboard_page1.png)
+### Inventory & Quality Analysis
+![Dashboard Page 2]
+(Dashboard_page2.png)
 
 
 
